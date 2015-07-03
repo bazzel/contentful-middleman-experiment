@@ -1,0 +1,46 @@
+---
+:id: 2k1fYB7H88SsS2IguI0KyO
+:slug: sfeerverslag-nextbuild
+:body: |-
+  Zaterdag 30 mei vond de eerste [NextBuild](http://www.nextbuild.nl/) plaats. Het software evenement georganiseerd door developers voor developers. Met 30 enthousiaste vakdevelopers, 2 keynote sprekers en 150 bezoekers kan worden teruggekeken op een geslaagde dag. Het evenement vond plaats op de High Tech Campus te Eindhoven. De hele dag kregen developers de mogelijkheid diverse presentaties bij te wonen. Variërend van mobiele app ontwikkeling, front-end ontwikkeling tot back-end talen, alles met als doel kennisdeling. De sfeer was gemoedelijk en prettig en het enthousiasme straalde er bij iedereen van af.
+
+  Namens Kabisa kwamen diverse developers in actie:
+
+   
+
+  **Etienne van Delden – Professional Cross-Mobile Platform development.**
+
+  **_De tip van Etienne:_**
+
+  _“With Maji-Mobile you can use the web technologies you’re familiar with to develop hybrid, cross-platform mobile apps”_
+
+   
+
+  **Patrick Baselier – Make color schemes a no-brainer with Sass.**
+
+  **_De tip van Patrick:_**
+
+  _“Wanneer je in je project geen of even geen grafisch designer tot je beschikking hebt, kun je met de Sass-color-schemes gem snel en eenvoudig kleurenschema’s genereren en deze toepassen in je web applicatie: [https://github.com/bazzel/sass-color-schemes](https://github.com/bazzel/sass-color-schemes)“_
+
+   
+
+  **Niels Stevens – A first taste on integration with Apache Camel.**
+
+  _**De tip van Niels:**_
+
+  _“Let Camel do the heavy lift for you, so you can focus on the business logic!”_
+
+   
+
+  Wil je meer informatie weten over de presentaties of de NextBuild neem gerust contact op met Kabisa en vraag naar Vivian Say.
+:title: Sfeerverslag NextBuild
+:author:
+- :id: 4hOgJTiBO0uiGK2WK06aUq
+  :name: Vivian Say
+:category:
+- :id: 3S0HFO0ZlCuSQI28auOe4s
+  :title: Conferentie
+:featuredImage:
+  :title: NextBuild
+  :url: "//images.contentful.com/k2z9tfoe7o9n/q3tiJm6TaCICOosg0euUM/7d23918a3046a24e4d0d703dbd61dcca/18298649738_c18a698d02_k.jpg"
+:date: !ruby/object:DateTime 2015-06-01 00:00:00.000000000 Z

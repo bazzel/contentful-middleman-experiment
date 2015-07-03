@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/Instrument/contentful_middleman.git
+  revision: cd9d944cfa2c94541ff8e0eefdc8f7756e777c80
+  specs:
+    contentful_middleman (1.1.0)
+      contentful
+      middleman-blog (~> 3.5)
+      middleman-core (~> 3.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -7,6 +16,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
+    addressable (2.3.8)
     celluloid (0.16.0)
       timers (~> 4.0.0)
     chunky_png (1.3.4)
@@ -26,6 +36,11 @@ GEM
       sass (>= 3.3.0, < 3.5)
     compass-import-once (1.0.5)
       sass (>= 3.2, < 3.5)
+    contentful (0.5.0)
+      http (~> 0.6)
+      multi_json (~> 1)
+    domain_name (0.5.24)
+      unf (>= 0.0.5, < 1.0.0)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -39,6 +54,14 @@ GEM
     hitimes (1.2.2)
     hooks (0.4.0)
       uber (~> 0.0.4)
+    http (0.8.12)
+      addressable (~> 2.3)
+      http-cookie (~> 1.0)
+      http-form_data (~> 1.0.1)
+      http_parser.rb (~> 0.6.0)
+    http-cookie (1.0.2)
+      domain_name (~> 0.5)
+    http-form_data (1.0.1)
     http_parser.rb (0.6.0)
     i18n (0.7.0)
     json (1.8.3)
@@ -58,6 +81,10 @@ GEM
       middleman-sprockets (>= 3.1.2)
       sass (>= 3.4.0, < 4.0)
       uglifier (~> 2.5)
+    middleman-blog (3.5.3)
+      addressable (~> 2.3.5)
+      middleman-core (~> 3.2)
+      tzinfo (>= 0.3.0)
     middleman-core (3.3.12)
       activesupport (~> 4.1.0)
       bundler (~> 1.1)
@@ -118,11 +145,15 @@ GEM
     uglifier (2.7.1)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  contentful_middleman!
   middleman (~> 3.3.10)
   middleman-livereload (~> 3.1.0)
   tzinfo-data

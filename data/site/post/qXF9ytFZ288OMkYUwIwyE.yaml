@@ -1,0 +1,61 @@
+---
+:id: qXF9ytFZ288OMkYUwIwyE
+:slug: kabisa-en-het-codeuur-avontuur
+:title: Kabisa en het codeuur avontuur
+:body: |-
+  Een nieuwe generatie coders en hackers laten zien hoe tof programmeren is. Dat is het doel van [CodeUur](http://www.codeuur.nl/), een initiatief om kinderen van de basisschool digitaal vaardig maken door ze te leren programmeren. Daarvoor deed CodeUur oproep aan de Nederlandse nerds. Of we zin hadden om een uur les te geven op vrijdag 6 maart, de dag dat CodeUur officieel landelijk van start zou gaan.
+
+  Dat klonk eigenlijk wel erg leuk. Maar voor een klas staan, zelfs op een basisschool, klonk toch wel een beetje eng. Zouden kids van die leeftijd wel interesse hebben in programmeren? Wat als ze er niks aan zouden vinden? Ik besloot steun te zoeken bij mijn mede-Kabisanten. Samen staan we sterk, tenslotte.
+
+  En dat had resultaat: uiteindelijk schreven we ons met vier man in, en werden we aan een school gematcht. [Tonći Galić](https://twitter.com/tuxified) in Amsterdam, [Jeroen Knoops](https://twitter.com/johnnybusca) in Son, [Joost Saanen](https://twitter.com/joostevilghost) in Budel, en [ikzelf](https://twitter.com/pixelambacht) in Nederweert.
+
+  ## Het codeuur van de waarheid
+
+  En zo stond ik licht nerveus voor ‘t eerst in jaren in een klas op een basisschool. Kleurige tekeningen aan de muren, een digibord achter me, en een lokaal vol nieuwsgierige kids voor me. Zouden ze het wel leuk vinden?
+
+  “Hebben jullie zin om een game te programmeren?” vraag ik dan maar. De reactie komt meteen en is luid en duidelijk: _“Jaaaa!!”_ De twijfel is weg: deze kids willen een game maken!
+
+  ## Red de bitterbal
+
+  Het lesmateriaal dat CodeUur gebruikt is een simpel doolhoofspel: zorg dat je de randen niet raakt, en red de prinses aan het eind van het doolhof. Dat niet alleen prinsessen gered hoefden te worden, daar konden ze wel wat mee. “Je mag het zelf bedenken: je mag ook de prins redden. Of een puppy. Of een schatkist zoeken. Of een bitterbal.” Dat laatste levert behalve wat gegniffel ook het besef op dat alles mogelijk is: wat _jij_ bedenkt komt in het spel.
+
+  Als kick-off laat ik op het digibord zien hoe je een sprite over de X en Y as kunt laten bewegen. Shit, kennen ze dat eigenlijk al in groep 8? Ik probeer een overdreven simpele uitleg en krijg de reactie “ja, coordinaten, ja”. Okee, X en Y as is gecovered. Laten we een spel gaan maken.
+
+  ## Aan de slag
+
+  In groepjes van twee gaat de klas aan de slag. “Meester,” hoor ik naast me. Oh ja, dat ben ik. Of je ook bad guys kunt maken die achter je aankomen. We zijn pas net bezig, en er wordt al gemod. Heerlijk!
+
+  Het is gaaf om te zien hoe de kinderen zich bewegen tussen het netjes volgen van de opdracht en hun eigen creativiteit de vrije loop laten. Eén jongen tekende zijn eigen sprites. Een ander had de pijltjestoetsen ingeleverd voor een WASD-besturing. Twee meiden hadden vijanden in vorm van bewegende vlinders, compleet met mini-AI. Twee anderen had een foutje gemaakt. “Dat noemen wij programmeurs een bug.” Glunderend keken ze elkaar aan: “We hebben een _bug_ gemaakt!” Want tja, dat hoort ook bij écht programmeren.
+
+  In de momenten dat je niet helpdeskt, debugt, hackt of uitlegt is het prachtig om te zien wat zich op alle schermen afspeelt. Er worden tips gedeeld, hacks uitgewisseld, en zo nu en dan worden elkaar’s spellen gespeeld. Testen is tenslotte ook een onderdeel van programmeren.
+
+  Na ongeveer anderhalf uur is het tijd om af te ronden. Voor de kids had dat niet gehoeven: die waren nog volop aan het coden. Terwijl ik mijn jas aantrek debuggen we nog een if/else statement, bespreek ik de haalbaarheid van een Minecraft-clone in [Scratch](https://scratch.mit.edu/) en laten twee meiden trots hun eindbaas-animatie zien. Na lieve bedankjes loop ik de klas uit en duiken de kids weer snel op de laptops — even nog wat tweaken voordat de juf overgaat op de orde van de dag.
+
+  Kids en meester zijn het erover eens: dit was ‘n leerzaam en ontzettend leuk uurtje. Missie geslaagd!
+
+  ## Iedere vrijdag een uur programmeren
+
+  CodeUur’s amibities zijn groter dan kids een leuke vrijdagochtend bezorgen met ‘t maken van een game. Ze willen dat programmeerles vaker op het rooster staat — iedere vrijdag, als het even kan. Dat willen wij eigenlijk ook wel. Programmeren is leuk, nuttig en leerzaam, en zoals afgelopen vrijdag is gebleken, prima materiaal voor ‘n interessante les.
+
+  Collega Jeroen Knoops vroeg bij aanvang aan zijn klas wat ze dachten dat ‘n programmeur deed. “Computers installeren,” meende de een. “Virusscanner installeren,” dacht de ander. “Als de computer vast loopt ‘m weer maken.”
+
+  Maar op ‘t einde wisten ze wel beter. Programmeurs maken super gave dingen!
+:author:
+- :id: QFT5e0QjkWkgSA4eusEAK
+  :name: Roel Nieskens
+- :id: 5jT6fPP6gMYMKIgGmY2MQY
+  :name: Jeroen Knoops
+:featuredImage:
+  :title: codeuur -1024x768
+  :url: "//images.contentful.com/k2z9tfoe7o9n/6G0Ku6fwE8eSemiE2ysAE8/bd4711bd035b76b2e921fe9e4cc8bf00/codeuur_-1024x768.jpg"
+:date: !ruby/object:DateTime 2015-03-12 00:00:00.000000000 Z
+:category:
+- :id: XLKnXBOHYISq4g2eQk4Yq
+  :title: Ember.js
+- :id: FJlJfypzaewiwyukGi2kI
+  :title: Children
+  :shortDescription: Blog posts featuring children novels and entertaining stories
+    involving kids.
+  :icon:
+    :title: Letter cubes
+    :url: "//images.contentful.com/k2z9tfoe7o9n/6JCShApjO0O4CUkUKAKAaS/0f69ccf34911b579ac9b3e4df13b2cae/letter-cubes.png"

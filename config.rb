@@ -70,3 +70,14 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+activate :contentful do |f|
+  f.access_token  = 'fe6eb8da16a59ce6de939cb35e2528f8848f7b505225cc1854b5a0bc0fba2aaa'
+  f.space         = { site: 'k2z9tfoe7o9n' }
+  #f.cda_query     = QUERY
+  f.content_types = {
+    post: '2wKn6yEnZewu2SCCkus4as',
+    author: '1kUEViTN4EmGiEaaeC6ouY',
+    category: '5KMiN6YPvi42icqAUQMCQe'
+  }
+end

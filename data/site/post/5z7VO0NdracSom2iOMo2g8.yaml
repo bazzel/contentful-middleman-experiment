@@ -1,0 +1,30 @@
+---
+:id: 5z7VO0NdracSom2iOMo2g8
+:slug: ember-js-workshop
+:body: |-
+  Kabisa gaf onlangs een interne workshop Ember.js aan haar medewerkers. Hierdoor konden meer Kabisanen ervaren wat Ember is en hoe Ember ingezet kan worden op de werkvloer.
+
+  Ember is een JavaScript MVC framework, vergelijkbaar met de frameworks van Backbone, React en Angular. Ember concentreert zich met name op conventies: hierdoor is er weinig code nodig voor oplossingen voor veel voorkomende problemen. De overdraagbaarheid van de Ember applicaties is hiermee eenvoudig.
+
+  Zeker in combinatie met Ember-cli zijn het deze conventies die zorgen voor een consistente applicatiestructuur. Met de build- en compiletool kun je je als ontwikkelaar direct focussen op het schrijven van mooie code, en het testen van de applicaties wordt meer eenduidig.
+
+  ![Kabisa Ember workshop](http://www.kabisa.nl/wp-content/uploads/2015/01/kabisa-ember-workshop.png)
+
+  Onder begeleiding van Patrick Baselier en Jeroen Knoops zijn tijdens de workshop zo’n 15 mensen aan de slag gegaan om van niets een product store te maken. Gewerkt werd vanuit het Front-end first principe: eerst wordt alles opgebouwd en later wordt er een backend aan gekoppeld. Het materiaal van de workshop bestond o.a. uit een git repository met daarin stap voor stap de instructies hoe de app te bouwen tot aan deployment naar een server toe.
+
+  Met deze workshop is Ember een van de methodes geworden waarmee Kabisa haar applicaties ontwikkelt.
+
+  Meer weten over EmberJS? [Doorloop dan de workshop.](https://github.com/bazzel/ember-workshop)
+
+  Kabisa deze workshop laten geven behoort ook tot de mogelijkheden. [Informeer naar de mogelijkheden!](http://www.kabisa.nl/contact/)
+:title: Ember.js workshop
+:author:
+- :id: 5jT6fPP6gMYMKIgGmY2MQY
+  :name: Jeroen Knoops
+:category:
+- :id: XLKnXBOHYISq4g2eQk4Yq
+  :title: Ember.js
+:date: !ruby/object:DateTime 2015-01-16 00:00:00.000000000 Z
+:featuredImage:
+  :title: B9o96GtCcAAdI7I
+  :url: "//images.contentful.com/k2z9tfoe7o9n/6eX0eOVXIkWKSgMAq4EgaA/8fb6fe009d339be55f1a557d8fbf57fd/B9o96GtCcAAdI7I.jpg"

@@ -1,0 +1,25 @@
+---
+:id: 3l27l1q7W8oOyuKMugKSmQ
+:slug: kabisa-bezoekt-npo-backstage
+:title: Kabisa bezoekt NPO Backstage
+:subtitle: 
+:body: |-
+  Op 27 mei jl. organiseerde de [NPO](http://www.npo.nl/) een kick-off van [NPO Backstage](http://www.npo.nl/specials/backstage). Dit was de officiële aftrap van het ter beschikking stellen van data van de Nederlandse publieke omroep waarmee ontwikkelaars en data-experts worden uitgedaagd om innovatieve en creatieve toepassingen te bouwen. Kabisa was erbij.
+
+  Waar bij sommige Kabisanen ideeën ontspruiten voor de meest originele, nuttige en soms ludieke toepassingen, zien anderen weer uitdagingen om deze data op een zo gestructureerd mogelijke manier te ontsluiten waarbij herbruikbaarheid van de code hoog in het vaandel staat. Vandaar dat we kort na het bezoek aan de NPO een interne brainstorm hebben gehouden om al deze ideeën te verzamelen en te bundelen.
+
+  Eén initiatief wat hieruit voortvloeide is een eenvoudig proof-of-concept, gebouwd in [Ember.js](http://emberjs.com/), waarmee (voorlopig) de data van NPO doorzocht kan worden. Het resultaat is [hier](http://npobackstage.s3-website-eu-west-1.amazonaws.com/#/journalistiek) te zien, de [codebase](https://github.com/bazzel/backstage-experiment)  is op GitHub beschikbaar.
+
+  Wellicht dat er meerdere initiatieven volgen of als je zelf aan de slag wil, neem dan een kijkje op [NPO Backstage API Documentation](http://backstage-docs.openstate.eu/) en hou [NPO Backstage](http://www.npo.nl/specials/backstage) in de gaten aangezien nieuwe data bronnen met regelmaat aan de API zullen worden toegevoegd.
+:category:
+- :id: XLKnXBOHYISq4g2eQk4Yq
+  :title: Ember.js
+:author:
+- :id: 2PY5ol14XmKoeGG4A8O4y4
+  :name: Patrick Baselier
+:tags:
+- ember npo
+:featuredImage:
+  :title: NPO Backstage
+  :url: "//images.contentful.com/k2z9tfoe7o9n/5RdLStZZ1CckCWKOgCY0ay/580f0f0a629582f95dc02e1df9e0bd4d/NPO_Backstage_widescreen-1432811011.png"
+:date: !ruby/object:DateTime 2015-06-06 00:00:00.000000000 Z

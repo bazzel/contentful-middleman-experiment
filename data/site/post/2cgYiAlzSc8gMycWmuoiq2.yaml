@@ -1,0 +1,62 @@
+---
+:id: 2cgYiAlzSc8gMycWmuoiq2
+:slug: training-mobiele-app-ontwikkeling-met-maji-mobile
+:body: |-
+  ![Maji Mobile](http://kabisa.nl/wp-content/uploads/2015/04/maji-mobile-logo-blog.png)
+
+  ### **Your idea**
+
+  Je hebt al een idee. Je weet al welk probleem je app gaat oplossen en hoe hij moet gaan werken. Ook weet je al hoe hij er uit gaat zien. En je weet heel zeker dat hij ook lekker moet werken. Hij moet het gewoon doen, en goed ook! Hoe pak je dat aan?
+
+  ### **Our technology**
+
+  Je app moet dus goed werken, écht goed. Dan heb je dus het beste gereedschap nodig. Gereedschap dat developers werk uit handen neemt. Gereedschap dat ervoor zorgt dat je je tijd kunt besteden aan andere dingen dan technische obstakels. Gereedschap als Maji Mobile dus!
+
+  ### **For everyone**
+
+  Een idee is zo goed als zijn uitvoering. Laat je dus niet beperken en zorg ervoor dat app altijd en overal werkt. Op alle mobiele devices. Op je gloednieuwe iPhone, maar ook op je oude Android tablet of op de Surface van een collega. Maji Mobile is het mobiele app ontwikkelplatform waarmee met één keer ontwikkelen alle devices bediend kunnen worden.
+
+  ### **Wat leer je in deze training?**
+
+  In de mobiele app training gaan we langs alle stappen die nodig zijn om een app te kunnen maken voor verschillende platforms. Van de eerste regel code tot de laatste build voor de Store. Je leert alles wat je nodig hebt: het aanmaken van nieuwe views, hoe je data opslaat, hoe je mobiele API’s gebruikt, hoe je externe plugins toevoegt, tests voor een mobiele app maken, testen in een simulator en debugging. Dit zijn dezelfde stappen en features die wij gebruiken tijdens de ontwikkeling van onze mobiele apps. Tijdens de training ligt de nadruk op hands-on ervaring; je krijgt uitleg en gaat vervolgens zelf aan de slag. Al op de eerste dag ga je naar huis met een eerste build voor je eigen smartphone!
+
+  ### **Voor wie is de training bedoeld?**
+
+  De training Mobiele App Ontwikkeling is bedoeld voor “ervaren (web-)developers”. Het is gericht op developers die ervaring hebben met het ontwikkelen van web apps. Ervaring met HTML, CSS en Javascript is een vereiste. Ervaring met een MVC/MV* framework zoals Ruby on Rails, BackboneJS of vergelijkbare frameworks is een pré.
+
+  ### **Welke voorkennis heb je nodig?**
+
+  De training mobiele app ontwikkeling met Maji Mobile richt zich op de meer ervaren developer, met kennis van HTML, CSS en Javascript. Je gaat daadwerkelijk aan de slag en na drie dagen heb je een app gebouwd. Maji Mobile apps maken gebruik van BackboneJS. Het is niet nodig om BackboneJS te kennen, maar ervaring met soortgelijke frameworks helpt enorm. Als je nog niet bekend bent met BackboneJS is het verstandig om na de training tijd te investeren om je dit eigen te maken.
+
+  ### **Waarom kies je voor Kabisa?**
+
+  *   persoonlijke aandacht;
+  *   workshop wordt verzorgd door echte vakspecialisten van Kabisa;
+  *   toepassen en geïnformeerd worden over de nieuwste/actuele technieken;
+  *   praktijkgericht;
+  *   in een korte tijd krijg je de juiste tips & tricks om een app te bouwen;
+  *   ervaring uit de praktijk: dit zijn de tools en frameworks die **wij** gebruiken om apps te maken;
+  *   kleine groepen van maximaal 8 personen.
+
+  ### **Trainingsonderwerpen**
+
+  **Achtergrond en architectuur** • Maji Mobile: Waarom, wat en hoe? **App genereren** • Maji new app; genereer een nieuwe Maji mobile app **Backbone** • Basis Backbone; hoe maak ik nieuwe pagina’s? **Local Storage** • Data opslaan in localStorage **Mobile features** • Mobiele API’s gebruiken **Debugging** • Maji Mobile app debuggen **Testing** • Automatic testing voor Maji Mobile apps **Simulator** • Uitvoeren in Android simulator **Cordova plugins** • Externe plugins toevoegen **Store & Production** • Push to Production; jouw Maji Mobile app in de Store
+
+  ### **Datum en locatie**
+
+  Start: Dinsdag 19 mei 2015 Locatie: Kabisa Weert, Marconilaan 8 3 Trainingsdagen van 10.00 tot 16.30 uur: 19 mei, 20 mei en 21 mei 2015 1499 euro exclusief BTW (inclusief naslagwerk, lunch, koffie, thee en fris)
+
+  ### **Inschrijven**
+
+  Neem telefonisch contact op met Vivian Say op nummer 0495 430798 of stuur een email naar [vivian.say@kabisa.nl](mailto:vivian.say@kabisa.nl) **Meer informatie op: [MajiMobile.com](http://majimobile.com)**
+:category:
+- :id: 67f3Vz0j8kaEOCYGEAoEc2
+  :title: Training
+:title: Training Mobiele App Ontwikkeling met Maji Mobile
+:author:
+- :id: 4hOgJTiBO0uiGK2WK06aUq
+  :name: Vivian Say
+:date: !ruby/object:DateTime 2015-04-22 00:00:00.000000000 Z
+:featuredImage:
+  :title: maji-training
+  :url: "//images.contentful.com/k2z9tfoe7o9n/5eKwANg6mc862OmEq4msQS/6300ccbae39e81a5c2dc93594f39ec00/maji-training.jpg"
