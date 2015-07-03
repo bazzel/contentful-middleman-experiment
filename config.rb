@@ -81,3 +81,7 @@ activate :contentful do |f|
     category: '5KMiN6YPvi42icqAUQMCQe'
   }
 end
+
+data.site.post.each do |id, post|
+  proxy "blog/#{post.slug}.html", 'blog/template.html', locals: { post: post }, ignore: true
+end
