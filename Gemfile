@@ -14,3 +14,4 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 gem 'contentful_middleman', git: 'https://github.com/Instrument/contentful_middleman.git'
+gem 'redcarpet'
