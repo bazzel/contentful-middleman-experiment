@@ -1,3 +1,8 @@
-%ul
-  - data.site.post.each do |id, post|
-    %li= link_to post.title, "blog/#{post.slug}.html"
+%script{type: "text/template", id: "post-item"}
+  <a href="/blog/<%= slug %>.html"><%= title %></a>
+
+-#%ul
+  -#- data.site.post.each do |id, post|
+    -#%li= link_to post.title, "blog/#{post.slug}.html"
+
+#main-content
